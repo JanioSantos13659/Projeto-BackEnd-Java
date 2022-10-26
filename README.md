@@ -1,4 +1,4 @@
-# Api Cadastro de Alunos
+# Api Cadastro Alunos
 
 # Spring MVC
 
